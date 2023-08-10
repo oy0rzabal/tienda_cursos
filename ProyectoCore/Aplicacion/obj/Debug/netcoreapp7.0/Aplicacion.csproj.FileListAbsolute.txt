@@ -1,0 +1,5 @@
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\netcoreapp7.0\Aplicacion.csproj.AssemblyReference.cache
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\netcoreapp7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\netcoreapp7.0\Aplicacion.AssemblyInfoInputs.cache
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\netcoreapp7.0\Aplicacion.AssemblyInfo.cs
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\netcoreapp7.0\Aplicacion.csproj.CoreCompileInputs.cache

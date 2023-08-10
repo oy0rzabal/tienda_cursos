@@ -1,0 +1,26 @@
+Crear nueva Soluciones:
+dotnet new sln
+
+Creamos dependencia:
+dotnet new classlib -o nombredependencia
+
+Creamos la webapi
+dotnet new webapi -o WebAPI
+
+
+integrar soluciones:
+dotnet sln add Dominio/
+
+#Hacer referecia a otra solucion:
+dotnet add reference ../Dominio/
+#Restaurar archivos de actualizaciones:
+dotnet restore
+
+##Recuerda que debes de poner bien el codigo para que no te de error.
+
+##Unir el Login a C#
+primero creamos una carpera en src donde crearemos una carpeta que se llame 'Servicios'
+
+Despues un archivo donde se llame HttpCliente.js
+
+Despues creamos nueva carpeta que se llame 'actions' junto con el archivo 'usuarioaction'

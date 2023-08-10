@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion\Aplicacion.csproj" Version="2.0"/>
+    <ProjectReference Include="..\Seguridad\Seguridad.csproj"  Version="7.0"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.2.1" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netcoreapp7.0</TargetFramework>
+  </PropertyGroup>
+</Project>

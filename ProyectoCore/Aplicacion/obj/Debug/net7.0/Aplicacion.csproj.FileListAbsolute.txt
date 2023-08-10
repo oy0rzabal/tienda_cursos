@@ -1,0 +1,17 @@
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Dominio.dll
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Persistencia.dll
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Dominio.pdb
+D:\VisualStudio\ProyectoCore\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
+D:\VisualStudio\ProyectoCore\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll
